@@ -5,4 +5,4 @@
 
 ###
 
-## 🌮 Checkout my personal GitHub account [pedrovinko](https://github.com/pedroFP)
+## 🌮 Checkout my personal GitHub account [pedroFP](https://github.com/pedroFP)
